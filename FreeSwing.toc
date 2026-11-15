@@ -1,0 +1,22 @@
+## Interface: 16001
+## Title: Free Swing Timer
+## Notes: Swing timers for main hand, off hand and ranged. Any size, any texture. /swing for options.
+## Category: Combat
+## Author: Claude for Thibault
+## Version: 2.5.1
+## IconTexture: Interface\AddOns\FreeSwing\Media\icon
+## OptionalDeps: FreeHub, LibSharedMedia-3.0, SharedMediaAdditionalFonts
+## SavedVariables: FreeSwingDB
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+Libs\LibDBIcon-1.0\LibDBIcon-1.0.lua
+Libs\LibFreeProfiles-1.0\LibFreeProfiles-1.0.lua
+Libs\LibFreeMedia-1.0\LibFreeMedia-1.0.lua
+Libs\LibFreeGrid-1.0\LibFreeGrid-1.0.lua
+
+Defaults.lua
+FreeSwing.lua
+FreeSwingConfig.lua
+FreeSwingMinimap.lua

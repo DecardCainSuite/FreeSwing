@@ -1,0 +1,4 @@
+package-as: FreeSwing
+
+ignore:
+  - README.md
