@@ -4,6 +4,7 @@
 ## Category: Combat
 ## Author: Claude for Thibault
 ## Version: 2.5.1
+## X-Curse-Project-ID: 1785644
 ## IconTexture: Interface\AddOns\FreeSwing\Media\icon
 ## OptionalDeps: FreeHub, LibSharedMedia-3.0, SharedMediaAdditionalFonts
 ## SavedVariables: FreeSwingDB
