@@ -1,4 +1,10 @@
 package-as: FreeSwing
 
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
 ignore:
   - README.md
+  - CHANGELOG-history.md
+  - curseforge
