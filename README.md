@@ -1,7 +1,7 @@
 <p align="center"><img src="curseforge/images/FreeSwing-logo-400.png" width="120" alt="Free Swing logo"></p>
 <h1 align="center">Free Swing</h1>
 <p align="center">Swing timers for main hand, off hand and ranged, at exactly the size and style you want.</p>
-<p align="center"><a href="https://www.curseforge.com/wow/addons/freeswing"><b>Download on CurseForge</b></a> · version <b>2.5.1</b> · WoW Forever (1.60.1) · <code>/swing</code></p>
+<p align="center"><a href="https://www.curseforge.com/wow/addons/freeswing"><b>Download on CurseForge</b></a> · version <b>2.5.2</b> · WoW Forever (1.60.1) · <code>/swing</code></p>
 
 ![Free Swing](curseforge/images/fs_1.png)
 

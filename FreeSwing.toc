@@ -3,7 +3,7 @@
 ## Notes: Swing timers for main hand, off hand and ranged. Any size, any texture. /swing for options.
 ## Category: Combat
 ## Author: DecardCain
-## Version: 2.5.1
+## Version: 2.5.2
 ## X-Curse-Project-ID: 1785644
 ## IconTexture: Interface\AddOns\FreeSwing\Media\icon
 ## OptionalDeps: FreeHub, LibSharedMedia-3.0, SharedMediaAdditionalFonts
