@@ -1,3 +1,4 @@
-## Free Swing 2.5.1
+## Free Swing 2.5.2
 
-- Version 2.5.1, as published on CurseForge.
+- `/swing reset` with an unknown bar name now shows the help instead of resetting every bar.
+- Cleanup: unused files and old settings removed from the package. No change in game.

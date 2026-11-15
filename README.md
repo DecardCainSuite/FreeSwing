@@ -31,8 +31,10 @@ Main hand, off hand and ranged swing timers for WoW Forever.
 
 - `/swing` — options
 - `/swing unlock` / `/swing lock` — move the bars
-- `/swing test` — test mode
-- `/swing reset [mh|oh|rg|all]`
+- `/swing test` — simulate a swing on every bar
+- `/swing minimap` — show / hide the minimap button
+- `/swing reset [mh|oh|rg|all]` — reset one bar or all of them
+- `/swing <bar> width|height|scale <n>` — set a size directly (bar = mh, oh, rg or all)
 
 ## Free Hub
 

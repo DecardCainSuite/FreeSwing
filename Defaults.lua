@@ -3,55 +3,9 @@
 -- the game keeps this value; otherwise the saved settings replace it.
 -- New characters get their own profile copied from "Default".
 FreeSwingDB = {
-	["v11"] = true,
 	["profiles"] = {
 		["Default"] = {
 			["bars"] = {
-				["TG"] = {
-					["outline"] = "NONE",
-					["fontSize"] = 0,
-					["rangeDim"] = true,
-					["tint"] = true,
-					["scale"] = 1,
-					["border"] = "blizzard",
-					["bgColor"] = {
-						0,
-						0,
-						0,
-						0.55,
-					},
-					["showIcon"] = false,
-					["borderColor"] = {
-						0,
-						0,
-						0,
-						1,
-					},
-					["color"] = {
-						1,
-						0.38,
-						0.32,
-					},
-					["background"] = "blizzard",
-					["showTime"] = true,
-					["texture"] = "blizzard",
-					["point"] = "BOTTOM",
-					["x"] = 0,
-					["spark"] = true,
-					["alpha"] = 1,
-					["y"] = 492,
-					["relPoint"] = "BOTTOM",
-					["timeFormat"] = "remaining",
-					["width"] = 260,
-					["classColor"] = false,
-					["showName"] = true,
-					["name"] = "",
-					["reverse"] = false,
-					["height"] = 18,
-					["decimals"] = 1,
-					["visibility"] = "active",
-					["iconSide"] = "LEFT",
-				},
 				["MH"] = {
 					["outline"] = "NONE",
 					["fontSize"] = 0,

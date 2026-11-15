@@ -2,7 +2,7 @@
 ## Title: Free Swing Timer
 ## Notes: Swing timers for main hand, off hand and ranged. Any size, any texture. /swing for options.
 ## Category: Combat
-## Author: Claude for Thibault
+## Author: DecardCain
 ## Version: 2.5.1
 ## X-Curse-Project-ID: 1785644
 ## IconTexture: Interface\AddOns\FreeSwing\Media\icon

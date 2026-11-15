@@ -639,7 +639,8 @@ SlashCmdList.FREESWING = function(msg)
     elseif cmd == "test" then ns.Test()
     elseif cmd == "minimap" then if ns.SetMinimapShown then ns.SetMinimapShown(not ns.IsMinimapShown()) end
     elseif cmd == "reset" then
-        local which = args[2] and (ALIASES[args[2]] or (args[2] == "all" and "all")) or "all"
+        local which = args[2] and (ALIASES[args[2]] or (args[2] == "all" and "all")) or (not args[2] and "all")
+        if not which then Help(); return end
         ns.Reset(which); Print("settings reset.")
     else
         local targets = (cmd == "all") and BAR_KEYS or (ALIASES[cmd] and { ALIASES[cmd] })
